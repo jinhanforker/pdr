@@ -1,7 +1,0 @@
-digraph G {
-	graph [fontname = "Helvetica"];
-	node [fontname = "Helvetica",shape=circle,width=0.2];
-	edge [fontname = "Helvetica"];
-
-	5 [label=""];
-}
